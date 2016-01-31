@@ -1,0 +1,15 @@
+{
+  "name": "retyped-fullcalendar-tsd-ambient",
+  "description": "TypeScript typings for fullcalendar",
+  "version": "1.6.1-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/fullcalendar-tsd-ambient",
+  "typescript": {
+    "definition": "fullCalendar.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
